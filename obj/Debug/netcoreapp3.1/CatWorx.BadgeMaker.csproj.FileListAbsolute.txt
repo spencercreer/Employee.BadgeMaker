@@ -11,3 +11,9 @@ C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\obj\Debug\netcoreap
 C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.dll
 C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.pdb
 C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.genruntimeconfig.cache
+C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\spenc\Documents\coding\01-github\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csproj.CopyComplete
