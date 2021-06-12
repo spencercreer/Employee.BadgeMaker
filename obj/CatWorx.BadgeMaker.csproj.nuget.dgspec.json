@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spenc\\Documents\\coding\\01-github\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
+    "C:\\Users\\spenc\\Documents\\coding\\01-github\\Employee.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spenc\\Documents\\coding\\01-github\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
+    "C:\\Users\\spenc\\Documents\\coding\\01-github\\Employee.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spenc\\Documents\\coding\\01-github\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "C:\\Users\\spenc\\Documents\\coding\\01-github\\Employee.BadgeMaker\\CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "C:\\Users\\spenc\\Documents\\coding\\01-github\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectPath": "C:\\Users\\spenc\\Documents\\coding\\01-github\\Employee.BadgeMaker\\CatWorx.BadgeMaker.csproj",
         "packagesPath": "C:\\Users\\spenc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spenc\\Documents\\coding\\01-github\\CatWorx.BadgeMaker\\obj\\",
+        "outputPath": "C:\\Users\\spenc\\Documents\\coding\\01-github\\Employee.BadgeMaker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spenc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[5.0.2, )"
