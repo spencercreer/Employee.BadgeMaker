@@ -12,7 +12,7 @@ namespace CatWorx.BadgeMaker
             List<Employee> employees = new List<Employee>();
             while (true)
             {
-                Console.WriteLine("Please enter a name: (leave empty to exit): ");
+                Console.WriteLine("Please enter a first name: (leave empty to exit): ");
                 string firstName = Console.ReadLine();
                 if (firstName == "")
                 {
